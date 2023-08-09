@@ -31,6 +31,7 @@ has_children: true
 | Xiaomi Mi Band       | [amazon](https://amzn.to/3E8AJMh)           | Make sure discoverable is turned on
 | Innway Wallet Card   | [amazon](https://amzn.to/3Z8Govf)           | Rechargeable iBeacon - no need to use app or activate
 | Ultrahuman Ring      | [ultrahuman](https://www.ultrahuman.com/ring/) |
+| Zeblaze Stratos 3    | [banggood](https://tinyurl.com/ZblzStrats3) | No need to use app or activate
 
 ## Works with caveats
 
